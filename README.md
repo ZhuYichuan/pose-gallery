@@ -2,6 +2,14 @@
 
 AI 姿态与机位参考资产库 (Multi-Perspective AI Pose Reference Gallery).
 
+## 出处
+
+本仓库为线稿姿态图库的本地镜像，来源：<https://ai-pose-gallery.pages.dev/>（线稿姿态图）。
+
+相关仓库：
+- 深度姿态图（depth）：<https://ai-pose-depth-gallery.pages.dev/>
+- 服装姿态图：<https://ai-costume-gallery.pages.dev/>
+
 ## 资产概览
 
 - **总图片量**: 1439 张 PNG 原图
